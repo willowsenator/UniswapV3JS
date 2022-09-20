@@ -1,0 +1,29 @@
+{
+  "name": "uniswapv3js",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willowsenator/UniswapV3JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willowsenator/UniswapV3JS/issues"
+  },
+  "homepage": "https://github.com/willowsenator/UniswapV3JS#readme",
+  "dependencies": {
+    "ethers": "^5.7.1",
+    "web3": "^1.8.0"
+  },
+  "devDependencies": {
+    "@uniswap/sdk-core": "^3.0.2",
+    "@uniswap/v3-sdk": "^3.9.0"
+  }
+}
