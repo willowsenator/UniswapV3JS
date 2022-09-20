@@ -6,7 +6,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/main"
+    "start": "node src/main",
+    "start_web3_ethers": "node src/Web3Ethers"
   },
   "repository": {
     "type": "git",
